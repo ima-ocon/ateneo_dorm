@@ -1,0 +1,237 @@
+
+.navbar-nav li a {
+  margin-top: 45px;
+}
+
+.navbar-nav li {
+  font-size: 15px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+ul li {
+  display: inline;
+}
+
+#logo_item {
+  margin-top: -15px;
+  font-size: 60px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+body {
+  padding-top: 90px;
+}
+
+#gallery_container {
+  text-align: center;
+  background-color: #EEEEEE;
+}
+
+#student_life_container {
+}
+
+#mission_vision_container, #student_life_container, #facilities_container, #apply_container, #contact_container {
+  padding: 70px;
+}
+
+#mission_image {
+  text-align: center;
+}
+
+#mission_title, #vision_title {
+  font-size: 1.9em;
+}
+
+#mission_row {
+  padding-bottom: 30px;
+}
+
+#mission_description {
+  padding-top: 20px;
+}
+
+#vision_description {
+  padding-top: 20px;
+  text-align: right;
+}
+
+#staff_container {
+  padding-top: 50px;
+  text-align: center;
+  background-color: #EEEEEE;
+}
+
+.section_title {
+  font-size: 1.6em;
+  font-weight: bold;
+}
+
+.section_description {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#staff_header_row {
+  margin-bottom: 50px;
+}
+
+#staff_list_row {
+  padding-right: 60px;
+  padding-left: 60px;
+}
+
+.resident {
+  padding: 30px;
+}
+
+.resident_text {
+  padding: 15px;
+}
+
+.resident_name{
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.resident_position {
+  padding-top: 0;
+  margin-top: -10px;
+}
+
+#student_life_header_row {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+#student_life_photos_row {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.student_album_div {
+  text-align: center;
+  padding-bottom: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.album_name {
+  font-weight: bold;
+}
+
+.student_album_photo {
+  margin-bottom: 15px;
+}
+
+.album_description {
+  margin-top: -10px;
+}
+
+#load_more_button {
+  text-align: center;
+}
+
+#student_life_photos_row {
+  text-align: center;
+}
+
+#facilities_container {
+  background-color: #EEEEEE;
+  padding-top: 40px;
+}
+
+.facility {
+  padding-right: 50px !important;
+  padding-left: 50px !important;
+}
+
+.facility_title, .apply_step_title {
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.facilities_line {
+  margin-bottom: 20px;
+}
+
+#facilities_header_row {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.facility {
+}
+
+.facility_icon {
+  margin-top: 10px;
+  height: 70px;
+  width: 70px;
+}
+
+.facility_text {
+  margin-top: -80px;
+  margin-left: 90px;
+}
+
+#apply_container {
+  background-color: #7B7B7B;
+  padding-top: 40px;
+}
+
+#apply_header_row {
+  text-align: center;
+}
+
+#apply_text {
+  padding-left: 60px;
+  padding-right: 30px;
+  padding-top: 40px;
+}
+
+.apply_step_description {
+  padding-left: 20px;
+}
+
+#contact_container {
+  padding-top: 40px;
+  text-align: center;
+}
+
+#contact_header {
+  margin-bottom: 20px;
+}
+
+#map {
+  margin-bottom: 30px;
+  height: 400px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+#form {
+  text-align: left;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+#name_input, #phone_input {
+  margin-right: 30px;
+  margin-bottom: 20px;
+}
+
+#subject_input {
+
+}
+
+#message_input {
+  width: 100%;
+}
+
+.btn {
+    background: none;
+    padding: 12px 22px;
+    border-radius: sharp;
+    border: 2px solid black !important;
+}
